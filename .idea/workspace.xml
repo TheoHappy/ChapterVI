@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7179c5ae-94f3-4a13-b41b-16870b4e9126" name="Default Changelist" comment="" />
+    <list default="true" id="7179c5ae-94f3-4a13-b41b-16870b4e9126" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChapterVI/CoinTossing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterVI/CoinTossing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoinTossing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoinTossing.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +19,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UTXOVPhPiGV0LPi2SspPhHf8iP" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -33,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DisplayingASquareOfAnyCharacter">
+  <component name="RunManager" selected="Application.CoinTossing">
     <configuration name="CircleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleArea" />
       <module name="ChapterVI" />
@@ -41,15 +52,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayingASquareOfAnyCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DisplayingASquareOfAnyCharacter" />
+    <configuration name="CoinTossing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoinTossing" />
       <module name="ChapterVI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HypotenuseCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HypotenuseCalculation" />
+    <configuration name="DisplayingASquareOfAnyCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DisplayingASquareOfAnyCharacter" />
       <module name="ChapterVI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoinTossing" />
         <item itemvalue="Application.DisplayingASquareOfAnyCharacter" />
         <item itemvalue="Application.ReversingDigits" />
         <item itemvalue="Application.TemperatureConversions" />
         <item itemvalue="Application.CircleArea" />
-        <item itemvalue="Application.HypotenuseCalculation" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +100,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575381526741</updated>
+      <workItem from="1575401929883" duration="3342000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
